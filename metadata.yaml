@@ -1,0 +1,56 @@
+_repo: Misericorde_68603
+_version: 0.0.1
+alternative_title: Misericordia. French
+contributor:
+  author_of_introduction:
+    agent_name: Morel-Fatio, Alfred
+    alias: Morel-Fatio, Alfred Paul Victor
+    birthdate: 1850
+    deathdate: 1924
+    gutenberg_agent_id: '54860'
+    url: http://www.gutenberg.org/2009/agents/54860
+    wikipedia: https://fr.wikipedia.org/wiki/Alfred_Morel-Fatio
+  translator:
+    agent_name: Bixio, Maurice
+    alias: Bixio, M.
+    birthdate: 1836
+    deathdate: 1906
+    gutenberg_agent_id: '54859'
+    url: http://www.gutenberg.org/2009/agents/54859
+    wikipedia: https://fr.wikipedia.org/wiki/Maurice_Bixio
+creator:
+  author:
+    agent_name: Pérez Galdós, Benito
+    aliases:
+    - Galdós, Benito Pérez
+    - Perez Galdos, Benito
+    - Galdós, Pérez
+    birthdate: 1843
+    deathdate: 1920
+    gutenberg_agent_id: '3821'
+    url: http://www.gutenberg.org/2009/agents/3821
+    wikipedia:
+    - https://es.wikipedia.org/wiki/Benito_P%C3%A9rez_Gald%C3%B3s
+    - https://en.wikipedia.org/wiki/Benito_Pérez_Galdós
+description: ''
+gutenberg_issued: '2022-07-24'
+identifiers:
+  gutenberg: '68603'
+language: fr
+pgterms:marc904: https://archive.org/details/misricorderoman00prez
+pgterms:marc905: 20210928080506galds
+pgterms:marc906: '1900'
+pgterms:marc907: FR
+production_note: Ramón Pajares, Claudine Corbasson and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive/Canadian Libraries)
+publication_note: France :Hachette et Cie,1900.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Spanish fiction -- Translations into French'
+- !lcc 'PQ'
+- GITenberg
+title: Miséricorde
+url: http://www.gutenberg.org/ebooks/68603
