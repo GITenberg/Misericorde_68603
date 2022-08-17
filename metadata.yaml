@@ -18,6 +18,9 @@ contributor:
     gutenberg_agent_id: '54859'
     url: http://www.gutenberg.org/2009/agents/54859
     wikipedia: https://fr.wikipedia.org/wiki/Maurice_Bixio
+covers:
+- cover_type: archival
+  image_path: 68603-h/images/cover.jpg
 creator:
   author:
     agent_name: Pérez Galdós, Benito
@@ -33,6 +36,8 @@ creator:
     - https://es.wikipedia.org/wiki/Benito_P%C3%A9rez_Gald%C3%B3s
     - https://en.wikipedia.org/wiki/Benito_Pérez_Galdós
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/68603#Misericorde
 gutenberg_issued: '2022-07-24'
 identifiers:
   gutenberg: '68603'
